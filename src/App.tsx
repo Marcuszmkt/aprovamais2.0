@@ -14,10 +14,7 @@ import { Profile } from './components/Profile';
 import { LevelUpModal } from './components/LevelUpModal';
 import { Subject, QuizResult } from './types';
 import { mockQuestions } from './data/mockData';
-import './utils/supabaseTest'; // Testa conectividade com Supabase
-import './utils/debugSupabase'; // Debug detalhado do Supabase
-import './utils/testSupabaseConnection'; // Teste específico de conexão
-import './utils/testDirectFetch'; // Teste direto com fetch
+
 
 function HomeRoute() {
   const { progress, updateSubjectProgress } = useProgress();
