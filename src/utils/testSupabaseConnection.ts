@@ -69,4 +69,4 @@ export async function testSupabaseConnection() {
 }
 
 // Executa o teste automaticamente
-testSupabaseConnection();
+
