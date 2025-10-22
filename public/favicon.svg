@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0e6377"/>
+      <stop offset="100%" stop-color="#147d67"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="448" height="448" rx="64" fill="url(#g)"/>
+  <g fill="#fff">
+    <path d="M214 240h84l-42-112h-4l-38 112zm-48 120 92-248h44l94 248h-44l-22-60h-100l-20 60h-44z"/>
+    <path d="M392 308h-36v-28h36v-36h28v36h36v28h-36v36h-28v-36z"/>
+    <text x="64" y="430" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700">APROVA</text>
+  </g>
+</svg>
+
+
+
+
+
